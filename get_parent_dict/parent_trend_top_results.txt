@@ -1,0 +1,491 @@
+Descriptive Statistics- All terms:
+Min: 1.0
+Max: 1166.0
+Mean:222.169
+Median:160.0
+Std_Dev:233.804
+Total Terms:0
+Descriptive Statistics- Jaquard over 0.7:
+Min: 7.0
+Max: 1105.0
+Mean:554.81
+Median:506.0
+Std_Dev:273.027
+Total Terms:600
+Interesting Words
+Term: radioraps sportprogram chat bietjie ball episode10:count: 7
+
+Term: radioraps sportprogram chat bietjie ball episode11:count: 7
+
+Term: nissan develops self cleaning car:count: 20
+
+Term: dia do livro:count: 32
+
+Term: uh magandang panahon asahan sa malaking bahagi ng bansa ngayong biyernes:count: 32
+
+Term: dia mundial do livro:count: 33
+
+Term: uh magandang panahon sa malaking bahagi ng bansa asahan pa rin ngayong biyernes:count: 33
+
+Term: five people rescued after emergency services saw their sos:count: 36
+
+Term: five people rescued after emmergency services saw their sos:count: 36
+
+Term: nissan develops first self cleaning car prototype:count: 38
+
+Term: best pack opening:count: 53
+
+Term: best pack opening ever:count: 62
+
+Term: al fondo hay sitio capitulo 1036 45 isdb t:count: 69
+
+Term: al fondo hay sitio capitulo 1028 completo isdb t:count: 70
+
+Term: al fondo hay sitio capitulo 1032 completo isdb t:count: 70
+
+Term: al fondo hay sitio capitulo 1036 completo isdb t:count: 70
+
+Term: 30 million coin wager fifa 14:count: 84
+
+Term: mom beats daughter for facebook pics:count: 85
+
+Term: graphic content mom beats daughter for facebook pics:count: 87
+
+Term: 10 million coin wager fifa 14:count: 100
+
+Term: brf resident evil 5 part 6:count: 105
+
+Term: soy un pez c alex staxx y vegetta garrys mod prop hunt #74:count: 108
+
+Term: soy un pez c alex staxx y vegetta garrys mod prop hunt #73:count: 109
+
+Term: shocking footage horrifying moment firemen are thrown from burning building:count: 115
+
+Term: playoffs game 5 top 5 plays:count: 119
+
+Term: al fondo hay sitio capitulo 1036 completo jueves 01 05 14 sexta temporada:count: 126
+
+Term: al fondo hay sitio capitulo 1036 parte 55 jueves 01 05 14 sexta temporada:count: 134
+
+Term: al fondo hay sitio capitulo 1037 parte 35 viernes 02 05 14 sexta temporada:count: 134
+
+Term: al fondo hay sitio capitulo 1037 parte 15 viernes 02 05 14 sexta temporada:count: 141
+
+Term: brf resident evil 5 part 3:count: 141
+
+Term: bikini girls boat crash turn down for what remix #tdfwfail:count: 142
+
+Term: pharrell williams happy we are from alicante:count: 142
+
+Term: pharrell williams happy we are from burgas:count: 142
+
+Term: pharrell williams happy we are from yemen:count: 143
+
+Term: dodit show 9 ronde 1 standup comedy kompastv:count: 155
+
+Term: brf resident evil 5 part 4:count: 157
+
+Term: bikini girls boat crash turn down for what fail remix original #tdfwfail:count: 160
+
+Term: minecraft snapshot 14w17a:count: 164
+
+Term: minecraft snapshot 14w17a swedish:count: 164
+
+Term: priyanka chopra i cant make you love me:count: 165
+
+Term: bayern munich 0 4 real madrid resumen 29042014 cope:count: 166
+
+Term: playoffs game 3 top 5 plays:count: 166
+
+Term: brf resident evil 5 part 1:count: 168
+
+Term: minecraft 18 snapshot 14w17a:count: 172
+
+Term: minecraft agrarian skies co op ep 004:count: 183
+
+Term: minecraft agrarian skies co op ep 013:count: 183
+
+Term: middle school teacher gives student lap dance says i love you baby:count: 186
+
+Term: playoffs game 4 top 5 plays:count: 186
+
+Term: aldine isd police middle school teacher gives student lap dance says i love you baby:count: 194
+
+Term: smiley nemuritori official video:count: 198
+
+Term: daddy lumba nea woho beto wo official video:count: 199
+
+Term: pre release teaser dragonslayer pantheon skin league of legends:count: 199
+
+Term: pre release teaser dragonslayer braum skin league of legends:count: 200
+
+Term: dodit show 9 ronde 2 standup comedy kompastv:count: 201
+
+Term: brf resident evil 5 part 2:count: 223
+
+Term: indiana monas e o templo do bacon minecraft #1:count: 225
+
+Term: bayern munich vs real madrid:count: 228
+
+Term: real madrid vs bayern munich:count: 228
+
+Term: real madrid vs bayern:count: 229
+
+Term: lebron james stares down michael jordan before dunk heat at bobcats game 3:count: 232
+
+Term: ice moves breaks bridge in canada:count: 238
+
+Term: ice moves bridge in nb canada:count: 238
+
+Term: 12 jon jones vs glover teixeira ufc 172 260414 luta completa:count: 239
+
+Term: 22 jon jones vs glover teixeira ufc 172 260414 luta completa:count: 239
+
+Term: live at 8 02052014 part 1:count: 241
+
+Term: live at 8 23042014 part 1:count: 241
+
+Term: live at 8 28042014 part 1:count: 241
+
+Term: chica posa en video con tiburon pensando que estaba muerto:count: 249
+
+Term: chica posa en video con tiburon pensando que estaba muerto lamentandolo para siempre:count: 254
+
+Term: priyanka chopra i cant make you love me full audiolyrics:count: 254
+
+Term: smiley nemuritori official video hd:count: 259
+
+Term: villarreal fan throws banana at barcelonas dani alves brazilian picks it up and eats it:count: 260
+
+Term: video horrifying moment firemen are thrown from burning building:count: 263
+
+Term: woman goes naked with sharks to save them:count: 264
+
+Term: incredible villarreal fan throws banana at barcelonas dani alves picks it up and eats it:count: 267
+
+Term: happy in bahrain:count: 268
+
+Term: shark awareness campaign woman goes naked with sharks to save them:count: 269
+
+Term: not happy in bahrain:count: 278
+
+Term: wladimir klitschko vs alex leapai ko 5 round highlights 26042014:count: 283
+
+Term: alex gonzaga pinoy big brother all in housemate:count: 288
+
+Term: twitcam de nicola porcella y angie arizaga parte 3:count: 290
+
+Term: bayern munich vs real madrid 0 4 resumen goles bayern munich 0 4 real madrid 29042014:count: 303
+
+Term: twitcam de nicola porcella y angie arizaga parte 1:count: 316
+
+Term: priyanka chopra i cant make you love me lyric video:count: 328
+
+Term: manchester united vs norwich city 4 0 all goals highlights 26042014:count: 329
+
+Term: lebron james stares down michael jordan before dunk heat vs bobcats game 3 youtube:count: 335
+
+Term: lucas matthysse vs john molina full fight part 13:count: 342
+
+Term: lucas matthysse vs john molina full fight part 33:count: 344
+
+Term: indiana monas e o templo do bacon 2 minecraft:count: 353
+
+Term: miralem pjanic amazing goal roma vs milan 1 0 25042014 hd:count: 368
+
+Term: carlos vives cuando nos volvamos a encontrar lyric video ft marc anthony:count: 369
+
+Term: jose mourinho reaction after william goal liverpool vs chelsea 0 2 2742014:count: 370
+
+Term: wladimir klitschko vs alex leapai ko 5 round full fight 26042014:count: 371
+
+Term: liverpool vs chelsea 0 2 all goals highlights 2742014:count: 372
+
+Term: cristiano ronaldo second goal 2 0 real madrid vs osasuna:count: 375
+
+Term: jose mourinho over reaction after william goal liverpool vs chelsea 0 2 2742014:count: 379
+
+Term: manchester united vs norwich city 4 0 all goals highlights 26042014 hd:count: 382
+
+Term: jose mourinho crazy reaction after wilian goal liverpool vs chelsea 0 2 27042014:count: 384
+
+Term: jose mourinho crazy reaction after wilian goal liverpool vs chelsea 0 2 27042014 hq:count: 386
+
+Term: bayern munich vs real madrid 0 4 all goals highlights 29042014 hd:count: 388
+
+Term: bayern munich vs real madrid 0 4 all goals highlights ucl 29042014 hd:count: 389
+
+Term: football ghost video phantom caught on camera freaks out fans by gliding through crowd:count: 389
+
+Term: game of thrones saison 4 episode 4:count: 392
+
+Term: miralem pjanic amazing solo goal as roma vs ac milan 1 0 25042014 hd:count: 392
+
+Term: dont get the hump man drives camel through burger king:count: 394
+
+Term: game of thrones season 4 episode 4:count: 398
+
+Term: full football spectators spooked by stadium ghost in bolivia:count: 407
+
+Term: alex gonzaga surprise housemate of pbb pinoy big brother all in:count: 424
+
+Term: liverpool vs chelsea 0 2 all goals highlights 27042014 hd:count: 426
+
+Term: the inside story 501 what really happened during the 2013 elections part two:count: 426
+
+Term: cristiano ronaldo fantastic second goal vs osassuna real madrid vs osasuna 2 0 26042014 hd:count: 434
+
+Term: the inside story 501 what really happened during the 2013 elections part one:count: 437
+
+Term: cuando nos volvamos a encontrar carlos vives y marc anthony video hd:count: 449
+
+Term: fleche wallonne 2014:count: 451
+
+Term: fleche wallonne 2014 parcours:count: 451
+
+Term: cheb bilal sghir sayi safitih ou dertii ghardek album 2014 edition avm 213music:count: 456
+
+Term: full video football ghost phantom caught on camera freaks out fans by gliding through crowd:count: 480
+
+Term: al fondo hay sitio capitulo 1037 parte 55 viernes 02 05 2014 sexta temporada:count: 490
+
+Term: al fondo hay sitio capitulo 1037 parte 35 viernes 02 05 2014 sexta temporada:count: 491
+
+Term: al fondo hay sitio capitulo 1037 parte 45 viernes 02 05 2014 sexta temporada:count: 492
+
+Term: al fondo hay sitio capitulo 1030 parte 55 miercoles 23 04 2014 sexta temporada:count: 497
+
+Term: al fondo hay sitio capitulo 1028 parte 55 lunes 21 04 2014 sexta temporada:count: 498
+
+Term: al fondo hay sitio capitulo 1030 parte 35 miercoles 23 04 2014 sexta temporada:count: 498
+
+Term: al fondo hay sitio capitulo 1033 parte 55 lunes 28 04 2014 sexta temporada:count: 498
+
+Term: al fondo hay sitio capitulo 1037 parte 25 viernes 02 05 2014 sexta temporada:count: 498
+
+Term: al fondo hay sitio capitulo 1028 parte 35 lunes 21 04 2014 sexta temporada:count: 499
+
+Term: al fondo hay sitio capitulo 1029 parte 55 martes 22 04 2014 sexta temporada:count: 499
+
+Term: al fondo hay sitio capitulo 1030 parte 45 miercoles 23 04 2014 sexta temporada:count: 499
+
+Term: al fondo hay sitio capitulo 1037 parte 15 viernes 02 05 2014 sexta temporada:count: 499
+
+Term: al fondo hay sitio capitulo 1028 parte 45 lunes 21 04 2014 sexta temporada:count: 500
+
+Term: al fondo hay sitio capitulo 1029 parte 35 martes 22 04 2014 sexta temporada:count: 500
+
+Term: al fondo hay sitio capitulo 1033 parte 45 lunes 28 04 2014 sexta temporada:count: 500
+
+Term: al fondo hay sitio capitulo 1029 parte 45 martes 22 04 2014 sexta temporada:count: 501
+
+Term: al fondo hay sitio capitulo 1032 parte 25 viernes 25 04 2014 sexta temporada:count: 502
+
+Term: al fondo hay sitio capitulo 1032 parte 55 viernes 25 04 2014 sexta temporada:count: 502
+
+Term: al fondo hay sitio capitulo 1032 parte 35 viernes 25 04 2014 sexta temporada:count: 503
+
+Term: al fondo hay sitio capitulo 1030 parte 25 miercoles 23 04 2014 sexta temporada:count: 504
+
+Term: al fondo hay sitio capitulo 1031 parte 55 jueves 24 04 2014 sexta temporada:count: 504
+
+Term: al fondo hay sitio capitulo 1032 parte 45 viernes 25 04 2014 sexta temporada:count: 504
+
+Term: al fondo hay sitio capitulo 1035 parte 55 miercoles 30 04 2014 sexta temporada:count: 504
+
+Term: al fondo hay sitio capitulo 1028 parte 25 lunes 21 04 2014 sexta temporada:count: 505
+
+Term: al fondo hay sitio capitulo 1031 parte 35 jueves 24 04 2014 sexta temporada:count: 505
+
+Term: al fondo hay sitio capitulo 1033 parte 25 lunes 28 04 2014 sexta temporada:count: 505
+
+Term: al fondo hay sitio capitulo 1035 parte 35 miercoles 30 04 2014 sexta temporada:count: 505
+
+Term: al fondo hay sitio capitulo 1029 parte 25 martes 22 04 2014 sexta temporada:count: 506
+
+Term: al fondo hay sitio capitulo 1030 parte 15 miercoles 23 04 2014 sexta temporada:count: 506
+
+Term: al fondo hay sitio capitulo 1031 parte 45 jueves 24 04 2014 sexta temporada:count: 506
+
+Term: al fondo hay sitio capitulo 1035 parte 45 miercoles 30 04 2014 sexta temporada:count: 506
+
+Term: al fondo hay sitio capitulo 1028 parte 15 lunes 21 04 2014 sexta temporada:count: 507
+
+Term: al fondo hay sitio capitulo 1033 parte 15 lunes 28 04 2014 sexta temporada:count: 507
+
+Term: al fondo hay sitio capitulo 1029 parte 15 martes 22 04 2014 sexta temporada:count: 508
+
+Term: groupe torino 2014 la coupe hna nedouha:count: 509
+
+Term: groupe torino 2014 la coupe hna nedouha exclu:count: 509
+
+Term: al fondo hay sitio capitulo 1031 parte 25 jueves 24 04 2014 sexta temporada:count: 511
+
+Term: al fondo hay sitio capitulo 1032 parte 15 viernes 25 04 2014 sexta temporada:count: 511
+
+Term: al fondo hay sitio capitulo 1035 parte 25 miercoles 30 04 2014 sexta temporada:count: 511
+
+Term: al fondo hay sitio capitulo 1034 parte 15 martes 29 04 2014 sexta temporada:count: 512
+
+Term: al fondo hay sitio capitulo 1031 parte 15 jueves 24 04 2014 sexta temporada:count: 513
+
+Term: al fondo hay sitio capitulo 1035 parte 15 miercoles 30 04 2014 sexta temporada:count: 513
+
+Term: running ghost football stadium bolivia fantasma en estadio futbol copa libertadores 2014:count: 515
+
+Term: bilal sghir sayi safitih ou dertii ghardek album 2014 edition avm by hakou hamer3aiin:count: 521
+
+Term: cheb bilal sghir sayi safitih ou dertii ghardek album 2014 edition avm by hakou hamer3aiin:count: 521
+
+Term: behind the scenes woman goes naked with sharks to save them:count: 534
+
+Term: cuando nos volvamos a encontrar carlos vives y marc anthony video full hd:count: 539
+
+Term: carmela april 22 2014 full episode 22:count: 553
+
+Term: carmela april 23 2014 full episode 22:count: 556
+
+Term: carmela april 28 2014 full episode 22:count: 556
+
+Term: kapuso mo jessica soho april 27 2014 part 1:count: 557
+
+Term: carmela april 24 2014 full episode 22:count: 563
+
+Term: carmela april 22 2014 full episode 12:count: 565
+
+Term: carmela april 23 2014 full episode 12:count: 565
+
+Term: carmela april 28 2014 full episode 12:count: 565
+
+Term: funny video dont get the hump man drives camel through burger king:count: 566
+
+Term: bubble gang summer special april 25 2014 full episode 22:count: 571
+
+Term: carmela april 24 2014 full episode 12:count: 572
+
+Term: bubble gang summer special april 25 2014 full episode 12:count: 580
+
+Term: pepito manaloto ang tunay na kuwento april 27 2014 part 1:count: 580
+
+Term: san mig coffee mixers vs alaska aces 4th qtr 04 23 2014:count: 602
+
+Term: kapuso mo jessica soho april 27 2014 part 2:count: 604
+
+Term: san mig coffee mixers vs alaska aces 1st qtr 04 23 2014:count: 604
+
+Term: air 21 vs san mig coffee 4th qtr 04 29 2014:count: 614
+
+Term: air 21 vs san mig coffee 1st qtr 04 29 2014:count: 616
+
+Term: rain or shine vs talk n text april 28 2014 4th quarter commisioners cup 2014:count: 619
+
+Term: rain or shine vs talk n text april 28 2014 1st quarter commisioners cup 2014:count: 620
+
+Term: daddy lumba ye nea woho beto wo official video 2014:count: 623
+
+Term: pepito manaloto ang tunay na kuwento april 27 2014 part 2:count: 626
+
+Term: chris lynn amazing catch kkr vs rcb ipl 2014catch of the century:count: 639
+
+Term: chris lynn amazing catch kkr vs rcb ipl 2014catch of the century hdcheck description:count: 639
+
+Term: chris lynn catch vs rcb rcb vs kkr 2014 match 11 highlights hd:count: 653
+
+Term: chris lynn catch vs royal challengers bangalore rcb rcb vs kkr 2014 match 11 highlights hd:count: 655
+
+Term: dani alves eats banana thrown from public villareal vs barcelona full 2014:count: 676
+
+Term: el valor de la verdad con florcita polo diaz 19 04 14 completo 19 04 2014:count: 708
+
+Term: el valor de la verdad con florcita polo diaz 19 04 14 programa completo 19 04 2014:count: 708
+
+Term: liverpool vs chelsea 0 2 2014 all goals highlights premier league 2742014:count: 742
+
+Term: liverpool vs chelsea 0 2 2014 all goals highlights premier league 2742014 hq:count: 743
+
+Term: bayern munich vs real madrid 0 4 all goals highlights 29 04 2014 hd:count: 749
+
+Term: talk n text vs rain or shine april 30 2014 1st quarter semifinals game 2:count: 751
+
+Term: talk n text vs rain or shine april 30 2014 3rd quarter semifinals game 2:count: 752
+
+Term: full football spectators spooked by stadium ghost in bolivia copa libertadores 2014:count: 762
+
+Term: rain or shine vs talk n text may 2 2014 1st quarter semifinals game 3:count: 770
+
+Term: liverpool vs chelsea 2014 0 2 all goals highlights 27042014 premier league hd:count: 781
+
+Term: bayern munich vs real madrid 2014 0 4 all goals and highlights champions league 2014:count: 803
+
+Term: real madrid vs bayern munich 2014 1 0 all goals and highlights champions league 2014:count: 811
+
+Term: bayern munich vs real madrid 2014 0 4 match review and full highlights champions league 2014:count: 821
+
+Term: fantasma en estadio de futbol copa libertadores 2014 ghost running in bolivia:count: 821
+
+Term: dani alves eats banana thrown from fans villareal vs barcelona 2014 full video:count: 823
+
+Term: bayern munich vs real madrid 0 4 all goals and highlights cl hd 2014:count: 827
+
+Term: keren virzha feat regina i dont want to miss a thing cover aerosmith indonesian idol 2014:count: 828
+
+Term: real madrid vs bayern munich 2014 1 0 match review and full highlights champions league 2014:count: 829
+
+Term: liverpool vs chelsea 0 2 all goals and highlights premier league 2014 27042014:count: 837
+
+Term: full video villarreal fan throws banana at barcelonas dani alves picks it up and eats it 2014:count: 849
+
+Term: the legal wife april 25 2014 full episode part 13:count: 851
+
+Term: the legal wife april 25 2014 full episode part 23:count: 851
+
+Term: virzha feat regina indonesian idol 2014 i dont want to miss a thing #aerosmith full:count: 855
+
+Term: battle all of me john legend the voice kids 2014:count: 870
+
+Term: battle all of me john legend the voice kids 2014 cover:count: 874
+
+Term: my love from the star april 22 2014 full episode 22:count: 914
+
+Term: my love from the star april 28 2014 full episode 22:count: 917
+
+Term: my love from the star april 25 2014 full episode 22:count: 922
+
+Term: my love from the star april 29 2014 full episode 22:count: 922
+
+Term: my love from the star april 22 2014 full episode 12:count: 923
+
+Term: my love from the star april 23 2014 full episode 12:count: 923
+
+Term: my love from the star april 28 2014 full episode 12:count: 923
+
+Term: my love from the star april 24 2014 full episode 22:count: 924
+
+Term: my love from the star april 30 2014 full episode 22:count: 924
+
+Term: my love from the star april 21 2014 full episode 12:count: 925
+
+Term: my love from the star april 25 2014 full episode 12:count: 928
+
+Term: my love from the star april 29 2014 full episode 12:count: 928
+
+Term: my love from the star april 24 2014 full episode 12:count: 930
+
+Term: my love from the star april 30 2014 full episode 12:count: 930
+
+Term: dani alves eat a banana thrown from the stands 2014 hd:count: 960
+
+Term: dani alves eat a banana thrown from the stands 2014 hd 720p:count: 961
+
+Term: dani alves eat a banana thrown from fans villareal vs barcelona 2014 full video:count: 966
+
+Term: my love from the star may 1 2014 full episode 22:count: 976
+
+Term: my love from the star may 1 2014 full episode 12:count: 982
+
+Term: my love from the star may 2 2014 full episode 22:count: 1003
+
+Term: my love from the star may 2 2014 full episode 12:count: 1010
+
+Term: full video dani alves eat a banana thrown from the stands 2014 hd:count: 1105
+
