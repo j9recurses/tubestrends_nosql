@@ -49,3 +49,5 @@ The database can be use to do such things as:
 1. Show, in the past 5 days, what and in what countries have Google and twitter had similar trend items
 2. Find the 35 highest trending/most talked items in the database
 3.Get Twitter Trending Data, google hot trends, data, youtube trend data and instragram popular data for specific days/times for specific geographic locations
+
+
