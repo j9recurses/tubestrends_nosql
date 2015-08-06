@@ -6,7 +6,7 @@ This was an UCB I School Data Mining Final Project
 
 This project collects information about internet “trending” data from major web platforms and social networks hopes to the following purposes:
 
--to create an database model of world-trends that give gives a way to both see trends occur inreal time (instantaneous) and think about trends in the long-term (over a course of a week, month, year, etc)
+-to create an nosql/mongo db of world-trends that give gives a way to both see trends occur inreal time (instantaneous) and think about trends in the long-term (over a course of a week, month, year, etc)
 -map internet trending data to the geographical coordinates of latitude and longitude how the data pieces geographically relate to each other;
 -provide a way for users to compare and contrast what's “trending” on different search platforms and social networks to see if there are common themes
 -show the duration of time that items/topics/people/ideas/places/stories are popular/trending on the Internet
@@ -14,7 +14,7 @@ This project collects information about internet “trending” data from major 
 
 General Design: 
 To gather the data, mentioned above, I wrote ruby scripts that collected the trend data, parsed the trend
-data, and then inserted the data into my database. From an amazon ec2, server, I deployed these the
+data, and then dumb the data into a mongo db database. From an amazon ec2, server, I deployed these the
 ruby scripts to run at regular intervals using the cron-tab. Below, I list a few details about how I
 implemented of my database system. Additionally, all the scripts for this project included in the classes dir, in case you'd like to see how they were exactly implemented.
 
