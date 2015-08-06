@@ -2,7 +2,7 @@
 
 TubesTrends
 ========================
-This was an UCB I School Data Mining Final Project
+This was an UCB I School Spring 2014 290 Data Mining Final Project
 
 This project collects information about internet “trending” data from major web platforms and social networks hopes to the following purposes:
 
