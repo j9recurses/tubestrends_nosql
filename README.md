@@ -4,7 +4,7 @@ TubesTrends
 ========================
 This was an UCB I School Spring 2014 290 Data Mining Final Project
 
-This project collects information about internet “trending” data from major web platforms and social networks hopes to the following purposes:
+TubesTrends collects internet “trending” data from major web platforms and social networks. The project hoped to acheive to the following purposes:
 
 * to create an nosql/mongo db of world-trends that give gives a way to both see trends occur in real time (instantaneous) and think about trends in the long-term (over a course of a week, month, year, etc)
 * map internet trending data to the geographical coordinates of latitude and longitude how the data pieces geographically relate to each other;
